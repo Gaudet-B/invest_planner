@@ -1,8 +1,8 @@
 import * as React from 'react';
 
-export interface IAppProps {
+// export interface IAppProps {
 
-}
+// }
 
 type HomeProps = {
     name: string;
